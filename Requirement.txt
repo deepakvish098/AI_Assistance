@@ -1,8 +1,17 @@
 install packages
 
+streamlit
+transformers
+peft
+datasets
+torch
+accelerate
+
 pip install torch transformers peft datasets accelerate
 
 models used miniLM
+
+
 
 
 ************Complete Workflow*******************
@@ -19,5 +28,5 @@ inference.py
 AI responses
 
 
-to see the model in the folder or for delete
+To see the model in the folder or for delete
 C:\Users\deepak vishwakarma\.cache\huggingface\hub
