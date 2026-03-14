@@ -1,4 +1,3 @@
-package requirement
 
 streamlit
 transformers
@@ -6,5 +5,3 @@ peft
 datasets
 torch
 accelerate
-sentencepiece
-huggingface_hub
