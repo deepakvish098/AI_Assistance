@@ -1,4 +1,4 @@
-install packages
+package requirement
 
 streamlit
 transformers
@@ -6,27 +6,5 @@ peft
 datasets
 torch
 accelerate
-
-pip install torch transformers peft datasets accelerate
-
-models used miniLM
-
-
-
-
-************Complete Workflow*******************
-dataset.json
-      ↓
-train.py
-      ↓
-LoRA training
-      ↓
-lora_model saved
-      ↓
-inference.py
-      ↓
-AI responses
-
-
-To see the model in the folder or for delete
-C:\Users\deepak vishwakarma\.cache\huggingface\hub
+sentencepiece
+huggingface_hub
