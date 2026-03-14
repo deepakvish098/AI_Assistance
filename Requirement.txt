@@ -1,0 +1,23 @@
+install packages
+
+pip install torch transformers peft datasets accelerate
+
+models used miniLM
+
+
+************Complete Workflow*******************
+dataset.json
+      ↓
+train.py
+      ↓
+LoRA training
+      ↓
+lora_model saved
+      ↓
+inference.py
+      ↓
+AI responses
+
+
+to see the model in the folder or for delete
+C:\Users\deepak vishwakarma\.cache\huggingface\hub
